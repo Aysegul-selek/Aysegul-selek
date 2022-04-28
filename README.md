@@ -16,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aysegul-selek&show_icons=true&locale=en" alt="aysegul-selek" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aysegul-selek&" alt="aysegul-selek" /></p>
+
