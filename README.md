@@ -37,9 +37,10 @@
 
 <h2 align="center">🚀 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aysegul-selek&show_icons=true&theme=radical" alt="GitHub Stats" width="33%" style="max-height: 200px; object-fit: contain;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aysegul-selek&theme=radical" alt="GitHub Streak" width="33%" style="max-height: 200px; object-fit: contain;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aysegul-selek&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="33%" style="max-height: 200px; object-fit: contain;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aysegul-selek&show_icons=true&theme=radical" alt="GitHub Stats" width="33%" style="height: 250px; object-fit: contain;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aysegul-selek&theme=radical" alt="GitHub Streak" width="33%" style="height: 250px; object-fit: contain;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aysegul-selek&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="33%" style="height: 250px; object-fit: contain;"/>
 </p>
+
 
 
