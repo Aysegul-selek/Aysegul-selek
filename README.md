@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Ayşegül Selek!</h1>
+<h1 align="center">Hello 👋, I'm Ayşegül Selek Tuncer!</h1>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=aysegul-selek&label=Profile%20Views&color=0e75b6&style=flat" alt="aysegul-selek" />
